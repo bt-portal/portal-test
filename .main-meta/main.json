@@ -45,8 +45,8 @@
          
         "author": "Anne Other",
          
-        "peripherals":   ["USB"],
-        "keywords":      ["MCC classic"],
+        "peripherals":   [],
+        "keywords":      [],
     
 		"additionalData": {
 			"longDescription": {
